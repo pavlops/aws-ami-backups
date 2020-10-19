@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Author: Pablo Suarez
+# Updated: October 28th, 2017
 # Website: https://github.com/pavlops
 # Usage: aws-ami-backup.sh <ec2-instance-id> <identifier> <retention days> <aws local profile>
 
